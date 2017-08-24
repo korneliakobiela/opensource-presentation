@@ -1,0 +1,16 @@
+body {
+	font-family: 'OpenSans', sans-serif;
+}
+
+img {
+	width:45%;
+}
+
+.step {
+	position: relative;
+    width: 900px;
+    padding: 40px;
+    margin: 20px auto;
+		box-sizing:         border-box;
+		font-size: 40px;
+}
