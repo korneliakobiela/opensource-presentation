@@ -1,0 +1,17 @@
+{
+  "name": "opensource-presentation",
+  "version": "0.0.0",
+  "description": "Presentation about open-source and GitHub workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "javascript",
+    "opensource",
+    "impress.js"
+  ],
+  "author": "Kornelia Kobiela",
+  "license": "MIT"
+}
