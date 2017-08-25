@@ -1,5 +1,6 @@
 body {
 	font-family: 'OpenSans', sans-serif;
+	background: #212121;
 }
 
 img {
@@ -13,4 +14,13 @@ img {
     margin: 20px auto;
 		box-sizing:         border-box;
 		font-size: 40px;
+		color: #BDBDBD;
+}
+
+.active {
+	color: #fff;
+}
+
+.single {
+	font-size: 80px;;
 }
