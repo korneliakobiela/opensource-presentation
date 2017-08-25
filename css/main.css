@@ -8,13 +8,13 @@ img {
 }
 
 .step {
-	position: relative;
+    position: relative;
     width: 900px;
     padding: 40px;
     margin: 20px auto;
-		box-sizing:         border-box;
-		font-size: 40px;
-		color: #BDBDBD;
+    box-sizing: border-box;
+    font-size: 40px;
+    color: #BDBDBD;
 }
 
 .active {
@@ -22,5 +22,5 @@ img {
 }
 
 .single {
-	font-size: 80px;;
+	font-size: 80px;
 }
